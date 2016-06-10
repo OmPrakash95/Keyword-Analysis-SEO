@@ -1,4 +1,0 @@
-http://blackrockdigital.github.io/startbootstrap-simple-sidebar/#
-https://en.wikipedia.org/wiki/Keyword_density
-----------
-http://stackoverflow.com/questions/19976627/posting-json-with-jquery-ajax-to-php
